@@ -1,13 +1,9 @@
-Reference
-"https://github.com/thuml/Transfer-Learning-Library"
-
 This is the source code for paper 
 'Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation'
 arXiv link: http://arxiv.org/abs/2211.08106
 
-![Instance-aware Model Ensemble With Distillation]
-
-(https://github.com/wuweimin23/IMED/blob/master/fig/1.png)
+## Model
+![Instance-aware Model Ensemble With Distillation](https://github.com/wuweimin23/IMED/blob/master/fig/1.png)
 
 ## Intorduction
 
@@ -30,3 +26,5 @@ python dann.py data/office31 -d Office31 -s A -t W -a resnet50  --epochs 20
 
 In the directory `examples`, you can find all the necessary running scripts to reproduce the benchmarks with specified hyper-parameters.
 
+## Reference
+"https://github.com/thuml/Transfer-Learning-Library"
