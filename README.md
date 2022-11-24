@@ -1,16 +1,9 @@
 Reference
 "https://github.com/thuml/Transfer-Learning-Library"
 
-```latex
-@misc{dalib,
-  author = {Junguang Jiang, Baixu Chen, Bo Fu, Mingsheng Long},
-  title = {Transfer-Learning-library},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/thuml/Transfer-Learning-Library}},
-}
-
+This is the source code for paper 
+'Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation'
+arXiv link: http://arxiv.org/abs/2211.08106
 
 ## Intorduction
 
