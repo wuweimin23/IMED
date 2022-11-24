@@ -18,7 +18,7 @@ run_office_home.sh : experiments on dataset Office-Home
 run_visda_2017.sh : experiments on dataset Visda-2017
 
 
-#### Training
+## Training
 
 Also, we have examples in the directory `examples`. A typical usage is 
 ```shell script
