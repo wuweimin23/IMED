@@ -32,7 +32,7 @@ In the directory `examples`, you can find all the necessary running scripts to r
 
 ##Results
 
-We following table reports the results of our method compared to the state-of-the-art results.
+We following table reports the results of our method compared to the state-of-the-art results on datasets: Office-31, Office-Home and Visda-2017.
 
 <div align="center">
 <table>
