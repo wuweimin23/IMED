@@ -36,28 +36,24 @@ We following table reports the results of our method compared to the state-of-th
 
 <div align="center">
 <table>
-    <thead>
         <tr>
             <th>Model</th>
             <th>Office-31</th>
             <th>Office-Home</th>
             <th>Visda-2017</th>
         </tr>
-    </thead>
-    <tbody>
         <tr>
-            <td rowspan=12> SOTA</td>
+            <td> SOTA</td>
             <td>94.1%</td>
             <td>89.8%</td>
             <td>84.3%</td>
         </tr>
         <tr>
-            <td rowspan=12> IMED</td>
+            <td> IMED</td>
             <td>94.4%</td>
             <td>89.9%</td>
             <td>85.1%</td>
         </tr>
-        </tbody>
 </table>
 </div>
 
