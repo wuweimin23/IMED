@@ -1,9 +1,9 @@
-This is the source code for paper 
-'Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation'
-arXiv link: http://arxiv.org/abs/2211.08106
+# <div align="center">Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation</div>[[`Paper`](http://arxiv.org/abs/2211.08106)] 
 
-## Model
-![Instance-aware Model Ensemble With Distillation](https://github.com/wuweimin23/IMED/blob/master/fig/1.png)
+## Introduction
+<div align="center">
+  <img width="100%" alt="Instance-aware Model Ensemble With Distillation" src="https://github.com/wuweimin23/IMED/blob/master/fig/1.png">
+</div>
 
 ## Intorduction
 
