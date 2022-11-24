@@ -5,6 +5,8 @@ This is the source code for paper
 'Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation'
 arXiv link: http://arxiv.org/abs/2211.08106
 
+![Alt text](https://github.com/wuweimin23/IMED/blob/master/fig/flow.pdf)
+
 ## Intorduction
 
 The code about the main experiments and ablation experiments can been seen in 'examples'
