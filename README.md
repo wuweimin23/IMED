@@ -30,5 +30,36 @@ python dann.py data/office31 -d Office31 -s A -t W -a resnet50  --epochs 20
 
 In the directory `examples`, you can find all the necessary running scripts to reproduce the benchmarks with specified hyper-parameters.
 
+##Results
+
+We following table reports the results of our method compared to the state-of-the-art results.
+
+<div align="center">
+<table>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th>Office-31</th>
+            <th>Office-Home</th>
+            <th>Visda-2017</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=12> SOTA</td>
+            <td>94.1%</td>
+            <td>89.8%</td>
+            <td>84.3%</td>
+        </tr>
+        <tr>
+            <td rowspan=12> IMED</td>
+            <td>94.4%</td>
+            <td>89.9%</td>
+            <td>85.1%</td>
+        </tr>
+        </tbody>
+</table>
+</div>
+
 ## Acknowledgement
 Our implementation is based on the [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library). 
