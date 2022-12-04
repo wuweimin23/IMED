@@ -1,4 +1,4 @@
-# <div align="center">[Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation](http://arxiv.org/abs/2211.08106)</div>
+# <div align="center">Instance-aware Model Ensemble With Distillation For Unsupervised Domain Adaptation [Paper](http://arxiv.org/abs/2211.08106)</div>
 
 ## Introduction 
 <div align="center">
